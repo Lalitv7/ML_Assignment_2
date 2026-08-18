@@ -51,9 +51,8 @@ The test portion of the dataset was saved as `test_data.csv` and is also used fo
 
 GitHub Repository:
 
-`ADD_GITHUB_REPOSITORY_LINK_HERE`
+https://github.com/Lalitv7/ML_Assignment_2
 
----
 
 ## D. Models Used
 
@@ -164,7 +163,7 @@ The results for different models can therefore be checked using the same test da
 
 Streamlit App Link:
 
-`ADD_STREAMLIT_APP_LINK_HERE`
+https://mlassignment2-ds8mhzjc9kyvwcq7y5mxvn.streamlit.app/
 
 ---
 
